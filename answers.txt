@@ -1,6 +1,6 @@
 What is a remote repository?
 
 A remote repository in Git is a copy of a repository that is hosted on 
-a different server or location. It allows multiple people to collaborate 
+a different server or location. It allows multiple users to collaborate 
 on the same project by providing a centralized place to store and share 
 code.
